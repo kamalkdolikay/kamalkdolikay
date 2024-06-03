@@ -40,5 +40,5 @@
   <p align="center">
      <a href="https://github.com/kamalkdolikay/Organica"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kamalkdolikay&repo=Organica&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/kamalkdolikay/Mental-Wellness"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kamalkdolikay&repo=Mental-Wellness&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/kamalkdolikay/krypt-fire"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kamalkdolikay&repo=krypt-fire&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/kamalkdolikay/Skynet"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kamalkdolikay&repo=Skynet&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
